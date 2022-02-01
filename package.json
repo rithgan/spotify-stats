@@ -1,0 +1,19 @@
+{
+  "name": "spotify-stats",
+  "version": "1.0.0",
+  "description": "Spotify statistics app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rithgan/spotify-stats.git"
+  },
+  "author": "rithgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rithgan/spotify-stats/issues"
+  },
+  "homepage": "https://github.com/rithgan/spotify-stats#readme"
+}
